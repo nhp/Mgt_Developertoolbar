@@ -1,7 +1,6 @@
-app/code/community/Mgt/DeveloperToolbar app/code/community/Mgt/DeveloperToolbar
-app/design/adminhtml/default/default/layout/mgt_developertoolbar.xml app/design/adminhtml/default/default/layout/mgt_developertoolbar.xml
-app/design/adminhtml/default/default/template/mgt_developertoolbar app/design/adminhtml/default/default/template/mgt_developertoolbar
-app/etc/modules/Mgt_DeveloperToolbar.xml app/etc/modules/Mgt_DeveloperToolbar.xml
-js/mgt_developertoolbar js/mgt_developertoolbar
-media/mgt_developertoolbar media/mgt_developertoolbar
-
+app/code/community/Mgt/*                        app/code/community/Mgt/
+app/design/adminhtml/default/default/layout/*   app/design/adminhtml/base/default/layout/
+app/design/adminhtml/default/default/template/* app/design/adminhtml/base/default/template/
+app/etc/modules/*                               app/etc/modules/
+js/*                                            js/
+media/*                                         media/
